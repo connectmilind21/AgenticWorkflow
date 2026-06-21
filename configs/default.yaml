@@ -1,0 +1,87 @@
+# Agentic Workflow Framework - Default Configuration
+
+app:
+  name: "Agentic Workflow Framework"
+  version: "0.1.0"
+  debug: false
+  log_level: "INFO"
+
+llm:
+  provider: "openai"
+  model: "gpt-4o"
+  temperature: 0.1
+  max_tokens: 4096
+  timeout: 60
+  max_retries: 3
+  embedding_model: "text-embedding-3-small"
+
+agents:
+  max_iterations: 10
+  max_execution_time: 300  # seconds
+  enable_memory: true
+  enable_tools: true
+  default_verbose: false
+
+memory:
+  short_term:
+    max_messages: 50
+    window_size: 10
+  long_term:
+    enabled: true
+    backend: "postgresql"
+  vector_store:
+    enabled: true
+    backend: "chroma"
+    collection_name: "agent_memory"
+    embedding_dimension: 1536
+
+tools:
+  web_search:
+    enabled: true
+    # Supported providers: tavily (requires TAVILY_API_KEY), serper (requires SERPER_API_KEY),
+    # or mock (no key required, for development/testing)
+    provider: "tavily"
+    max_results: 10
+  file_operations:
+    enabled: true
+    allowed_extensions: [".txt", ".md", ".json", ".csv", ".yaml", ".py"]
+    max_file_size_mb: 10
+  python_exec:
+    enabled: true
+    timeout: 30
+    sandbox: true
+  shell:
+    enabled: false  # disabled by default for security
+    allowed_commands: []
+
+workflows:
+  max_parallel_tasks: 5
+  retry:
+    max_attempts: 3
+    backoff_factor: 2
+    max_wait_seconds: 60
+  state_backend: "redis"
+
+api:
+  host: "0.0.0.0"
+  port: 8080
+  workers: 4
+  cors_origins: ["*"]
+  rate_limit: 100  # requests per minute
+
+observability:
+  tracing:
+    enabled: true
+    backend: "local"
+  metrics:
+    enabled: true
+    port: 9090
+  logging:
+    format: "json"
+    structured: true
+
+database:
+  pool_size: 10
+  max_overflow: 20
+  pool_timeout: 30
+  pool_recycle: 3600

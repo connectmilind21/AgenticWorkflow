@@ -1,0 +1,25 @@
+"""
+Prompts package for the Agentic Workflow Framework.
+"""
+
+from prompts.templates import (
+    CODING_AGENT_SYSTEM_PROMPT,
+    COORDINATOR_SYSTEM_PROMPT,
+    CRITIC_SYSTEM_PROMPT,
+    DATA_ANALYSIS_SYSTEM_PROMPT,
+    PLANNER_SYSTEM_PROMPT,
+    RESEARCH_SYSTEM_PROMPT,
+    REVIEWER_SYSTEM_PROMPT,
+    get_agent_prompt,
+)
+
+__all__ = [
+    "PLANNER_SYSTEM_PROMPT",
+    "RESEARCH_SYSTEM_PROMPT",
+    "DATA_ANALYSIS_SYSTEM_PROMPT",
+    "CODING_AGENT_SYSTEM_PROMPT",
+    "REVIEWER_SYSTEM_PROMPT",
+    "CRITIC_SYSTEM_PROMPT",
+    "COORDINATOR_SYSTEM_PROMPT",
+    "get_agent_prompt",
+]
