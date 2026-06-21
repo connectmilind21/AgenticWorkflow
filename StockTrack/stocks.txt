@@ -1,0 +1,22 @@
+# Editable symbol list for stock-track-agent
+# You can add, remove, or reorder symbols manually.
+# This workflow preserves the file order, keeps pinned symbols at the top, and appends screened picks at the bottom.
+INTC
+GOOGL
+META
+NFLX
+AMZN
+CCL
+RCL
+TSLA
+AAPL
+AMD
+IONQ
+MRVL
+MSFT
+MU
+NVDA
+PLTR
+QBTS
+RGTI
+WDC

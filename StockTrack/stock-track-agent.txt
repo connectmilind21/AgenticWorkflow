@@ -1,0 +1,23 @@
+stock-track-agent instructions
+
+Trigger
+- user says: run stock-track-agent
+
+Command
+- python stock-track-agent.py
+
+Workflow summary
+1. Read symbols from stocks.txt (user editable).
+2. Normalize aliases (for example, NVDIA->NVDA, FACEBOOK->META, WDCC->WDC).
+3. Fetch market data and indicators for each symbol.
+4. Screen up to 3 additional momentum names using relaxed filters (price, market cap, RSI, relative volume, revenue growth, trend).
+5. If no screened names qualify, fall back to up to 2 CNN market movers.
+6. Rewrite stocks.txt by preserving file order, keeping pinned symbols at top only when they exist in the file, and appending screened picks at the bottom.
+7. Generate timestamped HTML and text reports in output/ with executive summary, overview, analyst targets (including target addition vs current price), TradingView technicals (1W/1M summary, oscillator, MA), interactive charts, and macro/stock news.
+
+Notes
+- Signal dashboard was removed from reports.
+- Analyst target rows prioritize reliable brokerage firms when available.
+- TradingView technicals are fetched for every symbol in the report.
+- Email is optional and skipped unless a dedicated sender module is added.
+- Uses public market/news sources.
