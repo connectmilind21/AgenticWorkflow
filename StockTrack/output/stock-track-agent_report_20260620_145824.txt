@@ -1,0 +1,155 @@
+Stock Track Agent Report
+Generated: 2026-06-20 14:58:07 Pacific Daylight Time
+Tracked symbols (19): INTC, GOOGL, META, NFLX, AMZN, CCL, RCL, TSLA, AAPL, AMD, IONQ, MRVL, MSFT, MU, NVDA, PLTR, QBTS, RGTI, WDC
+
+Executive Summary
+================================================================================
+- Tracked basket is mixed with 18 gainers and 1 decliners.
+- Top daily movers: INTC (10.64%), MU (8.70%), QBTS (7.72%).
+- Rates, inflation, labor data, and geopolitical headlines remain key macro drivers.
+- Crypto trend is represented through BTC-USD, ETH-USD, and SOL-USD in the same report.
+- Momentum screening found no new names satisfying all strict filters today.
+
+Top 3 Picks
+================================================================================
+- No stocks met all filter criteria in this run.
+
+Analyst Price Targets
+================================================================================
+- INTC: current 133.99, consensus Hold (2.62), target 94.14, addition -39.85, upside -29.74%
+- GOOGL: current 368.03, consensus Strong Buy (1.44), target 432.83, addition 64.80, upside 17.61%
+- META: current 577.22, consensus Strong Buy (1.31), target 827.32, addition 250.10, upside 43.33%
+- NFLX: current 77.38, consensus Buy (1.68), target 114.15, addition 36.77, upside 47.51%
+- AMZN: current 244.39, consensus Strong Buy (1.34), target 312.99, addition 68.60, upside 28.07%
+- CCL: current 30.87, consensus Buy (1.57), target 35.05, addition 4.18, upside 13.54%
+- RCL: current 312.51, consensus Buy (1.75), target 336.85, addition 24.34, upside 7.79%
+- TSLA: current 400.49, consensus Buy (2.34), target 420.55, addition 20.06, upside 5.01%
+- AAPL: current 298.01, consensus Buy (1.98), target 314.42, addition 16.41, upside 5.51%
+- AMD: current 537.37, consensus Strong Buy (1.45), target 487.90, addition -49.47, upside -9.21%
+- IONQ: current 56.55, consensus Strong Buy (1.38), target 67.64, addition 11.09, upside 19.61%
+- MRVL: current 310.58, consensus Strong Buy (1.45), target 238.75, addition -71.83, upside -23.13%
+- MSFT: current 379.40, consensus Strong Buy (1.34), target 561.39, addition 181.99, upside 47.97%
+- MU: current 1133.99, consensus Strong Buy (1.48), target 945.60, addition -188.39, upside -16.61%
+- NVDA: current 210.69, consensus Strong Buy (1.29), target 298.93, addition 88.24, upside 41.88%
+- PLTR: current 128.47, consensus Buy (1.94), target 182.75, addition 54.28, upside 42.25%
+- QBTS: current 24.69, consensus Strong Buy (1.33), target 36.84, addition 12.15, upside 49.20%
+- RGTI: current 21.36, consensus Buy (1.85), target 29.24, addition 7.88, upside 36.90%
+- WDC: current 746.23, consensus Buy (1.56), target 554.13, addition -192.10, upside -25.74%
+
+Overview
+================================================================================
+- INTC | Sector Technology | Price 133.99 | 52W H/L 135.48 / 18.97 | MarketCap 673433780224 | PE None | EPS -0.6 | RVOL 1.7829228102339167 | RSI 60.97533624800452 | AI 66.85
+- GOOGL | Sector Communication Services | Price 368.03 | 52W H/L 408.61 / 162.0 | MarketCap 4490912595968 | PE 28.093893 | EPS 13.1 | RVOL 1.3627540870272967 | RSI 42.56912047643224 | AI 79.34
+- META | Sector Communication Services | Price 577.22 | 52W H/L 796.25 / 520.26 | MarketCap 1465228591104 | PE 21.005095 | EPS 27.48 | RVOL 1.5055866789901016 | RSI 36.2401001303274 | AI 67.27
+- NFLX | Sector Communication Services | Price 77.38 | 52W H/L 134.115 / 75.01 | MarketCap 325831589888 | PE 24.96129 | EPS 3.1 | RVOL 2.328618821172251 | RSI 22.236501461156763 | AI 68.24
+- AMZN | Sector Consumer Cyclical | Price 244.39 | 52W H/L 278.56 / 196.0 | MarketCap 2628929978368 | PE 31.656736 | EPS 7.72 | RVOL 1.7141282803717326 | RSI 31.123240701584066 | AI 75.39
+- CCL | Sector Consumer Cyclical | Price 30.87 | 52W H/L 34.03 / 22.58 | MarketCap 42759258112 | PE 13.599119 | EPS 2.27 | RVOL 1.2375850725239335 | RSI 61.718106229952156 | AI 64.96
+- RCL | Sector Consumer Cyclical | Price 312.51 | 52W H/L 366.5 / 232.1 | MarketCap 83813613568 | PE 19.078756 | EPS 16.38 | RVOL 1.2942390321121664 | RSI 60.66891574054308 | AI 75.13
+- TSLA | Sector Consumer Cyclical | Price 400.49 | 52W H/L 498.83 / 288.77 | MarketCap 1504129843200 | PE 370.82404 | EPS 1.08 | RVOL 1.2434905962470608 | RSI 38.55827075738642 | AI 57.48
+- AAPL | Sector Technology | Price 298.01 | 52W H/L 317.4 / 198.96 | MarketCap 4376979046400 | PE 36.122425 | EPS 8.25 | RVOL 1.6308597205317537 | RSI 39.069563152896485 | AI 78.64
+- AMD | Sector Technology | Price 537.37 | 52W H/L 558.37 / 126.82 | MarketCap 876235849728 | PE 178.52824 | EPS 3.01 | RVOL 1.3713319017581953 | RSI 53.11612131920642 | AI 79.36
+- IONQ | Sector Technology | Price 56.55 | 52W H/L 84.64 / 25.89 | MarketCap 21108416512 | PE 145.0 | EPS 0.39 | RVOL 0.6574880865681131 | RSI 32.71715370311418 | AI 70.75
+- MRVL | Sector Technology | Price 310.58 | 52W H/L 329.88 / 61.44 | MarketCap 271929278464 | PE 106.36301 | EPS 2.92 | RVOL 3.5468016354696275 | RSI 65.23696931479188 | AI 80.75
+- MSFT | Sector Technology | Price 379.40 | 52W H/L 555.45 / 356.28 | MarketCap 2818348154880 | PE 22.569899 | EPS 16.81 | RVOL 1.5332608310223275 | RSI 18.55468469544867 | AI 67.35
+- MU | Sector Technology | Price 1133.99 | 52W H/L 1149.43 / 103.38 | MarketCap 1278839095296 | PE 53.464878 | EPS 21.21 | RVOL 1.187340108355289 | RSI 59.346936558263316 | AI 71.31
+- NVDA | Sector Technology | Price 210.69 | 52W H/L 236.54 / 142.03 | MarketCap 5103122644992 | PE 32.26493 | EPS 6.53 | RVOL 1.37333743845519 | RSI 49.71128134067432 | AI 76.87
+- PLTR | Sector Technology | Price 128.47 | 52W H/L 207.52 / 122.68 | MarketCap 307982663680 | PE 144.34831 | EPS 0.89 | RVOL 1.3799081208308575 | RSI 23.69260650976763 | AI 62.89
+- QBTS | Sector Technology | Price 24.69 | 52W H/L 46.75 / 12.75 | MarketCap 9146292224 | PE None | EPS -1.14 | RVOL 0.669315385632022 | RSI 37.33147428142557 | AI 65.75
+- RGTI | Sector Technology | Price 21.36 | 52W H/L 58.15 / 10.3 | MarketCap 7100039168 | PE None | EPS -0.89 | RVOL 0.5484206659761737 | RSI 38.324020000950476 | AI 56.75
+- WDC | Sector Technology | Price 746.23 | 52W H/L 799.87 / 58.66 | MarketCap 257212153856 | PE 44.63098 | EPS 16.72 | RVOL 2.08425908979895 | RSI 73.7077706510862 | AI 77.50
+
+TradingView Technicals (1W / 1M)
+================================================================================
+- INTC: Summary 1W Strong Buy, 1M Strong Buy | Oscillator 1W Neutral, 1M Buy | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-INTC/technicals/
+- GOOGL: Summary 1W Buy, 1M Buy | Oscillator 1W Sell, 1M Sell | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-GOOGL/technicals/
+- META: Summary 1W Sell, 1M Sell | Oscillator 1W Sell, 1M Sell | MA 1W Strong Sell, 1M Sell
+  https://www.tradingview.com/symbols/NASDAQ-META/technicals/
+- NFLX: Summary 1W Sell, 1M Sell | Oscillator 1W Neutral, 1M Sell | MA 1W Strong Sell, 1M Sell
+  https://www.tradingview.com/symbols/NASDAQ-NFLX/technicals/
+- AMZN: Summary 1W Buy, 1M Buy | Oscillator 1W Neutral, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-AMZN/technicals/
+- CCL: Summary 1W Buy, 1M Buy | Oscillator 1W Neutral, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NYSE-CCL/technicals/
+- RCL: Summary 1W Strong Buy, 1M Buy | Oscillator 1W Buy, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NYSE-RCL/technicals/
+- TSLA: Summary 1W Neutral, 1M Buy | Oscillator 1W Buy, 1M Sell | MA 1W Neutral, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-TSLA/technicals/
+- AAPL: Summary 1W Buy, 1M Buy | Oscillator 1W Buy, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-AAPL/technicals/
+- AMD: Summary 1W Buy, 1M Strong Buy | Oscillator 1W Neutral, 1M Buy | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-AMD/technicals/
+- IONQ: Summary 1W Buy, 1M Buy | Oscillator 1W Neutral, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NYSE-IONQ/technicals/
+- MRVL: Summary 1W Strong Buy, 1M Strong Buy | Oscillator 1W Buy, 1M Buy | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-MRVL/technicals/
+- MSFT: Summary 1W Sell, 1M Sell | Oscillator 1W Neutral, 1M Sell | MA 1W Strong Sell, 1M Sell
+  https://www.tradingview.com/symbols/NASDAQ-MSFT/technicals/
+- MU: Summary 1W Strong Buy, 1M Strong Buy | Oscillator 1W Buy, 1M Buy | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-MU/technicals/
+- NVDA: Summary 1W Strong Buy, 1M Strong Buy | Oscillator 1W Buy, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-NVDA/technicals/
+- PLTR: Summary 1W Sell, 1M Neutral | Oscillator 1W Buy, 1M Sell | MA 1W Sell, 1M Buy
+  https://www.tradingview.com/symbols/NASDAQ-PLTR/technicals/
+- QBTS: Summary 1W Strong Buy, 1M Buy | Oscillator 1W Buy, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NYSE-QBTS/technicals/
+- RGTI: Summary 1W Buy, 1M Buy | Oscillator 1W Buy, 1M Neutral | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-RGTI/technicals/
+- WDC: Summary 1W Strong Buy, 1M Strong Buy | Oscillator 1W Buy, 1M Buy | MA 1W Strong Buy, 1M Strong Buy
+  https://www.tradingview.com/symbols/NASDAQ-WDC/technicals/
+
+Macro News
+================================================================================
+overall_stock_market:
+- Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead - Investor's Business Daily (Investor's Business Daily)
+  https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTFDTVlOLU9tckVpTGRXVDVPZV82elNENmpvN2pQSkpISk1iQmJoZXg0QzFCb0Zhb1ByNVR2eGhLSDZWU2thRVcydG9GTTZyY2tOOXZTdENHTW5ac3N0VERtVkZUdG1HbVV1aFVHcS1kdWtuLUN4S1MtSmlSQ0w3Mk5rbHl0bjJ2ZE5VeA?oc=5
+- US Stock Market Outlook: Returning to Balance of Growth and Value Stocks - Morningstar (Morningstar)
+  https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMHJ3YVAyaDBnbGNiV2NGb0Vjbm1WRlFBdEI4WUhrb2FOazRoUkRYd3FQSE5xcVdldURMRExEeDhWNV9oWWV6RkwxT1gxdnVsbGw5bEVXUW9xTUpvTWQ3UVBMbXdVYnEwdUxWZlo4em1EOVJOZ0dzblNJNzV0Tjg0WVBxOGVnTDdpaG51RWo4YU5DcWkyRFIzQ00zUzJrUXU4azlaV01HUmo?oc=5
+finance:
+- The New York Stock Exchange | NYSE - NYSE (NYSE)
+  https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5
+- What’s happening this week in economics? - Deloitte (Deloitte)
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5
+technology_ai:
+- AI buildout gives tech investors new reasons to watch bond market - CNBC (CNBC)
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPZThQaEV6U2RJaHpxdFU4Tkg5dzRlSTBzSTd1MUt3Y29zelNfVVdHUXRrR3FYYW5TdmswM1lFTjMzLUFwM2Z6cmw0TlY1RFFFc3ZXWWVGdWRta1hvcldob2FVeTYwcUxjbXctYkptdTJDSFNadElWd0lQeXhKaTNiMEtJNDRpTHJkRXhfblpuZ0VqRHFGRzNPU0M0SW0xOVFncFlVZEtR0gGrAUFVX3lxTE9XQXVvb0NrTDhsQ2VNYlVpQno5VlFSN1JsSXktbXhwZlhxbXUxZzVQLWp5TUtjWGVzSHhtNWEtQk9DUjBrQlFzZFUwOHVQV0FhaUpwUXhEdnJSaE1QVnBzQW5YRWM5Ui1Sa3NsNU1qSTJveHM5Y2ROSjg3V3JqTkxwaWplX0R3ajdpZlo2amNYNUJVRnFoaEZrRl9MZHlXQkJMZlhtUUlVQVFwcw?oc=5
+- Microsoft's fastest-growing AI market is the one America fears most - The Times of India (The Times of India)
+  https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX3N6R3pqZ0doM0tUMU9FdENuX18yOW8tRWFKdGlyZV9mRHc2bl82X0tBRHN4Z3FyOG9vLTZtWEltdzNfVG5HUnBJTU9yNzVkeEt1Mk5ZZjdTM1hkR3ZNTmpONVhERVRiV2F0Q25yUkhGeEZNd2Q3ejNZMnBfbXZUai1qTUM0bERBMjBWTkw1eERla1NrWkN2b0hTZVZkeTEzZmYzZTY1YkJxb0VOT1JNcnNIWFlGbGdqVFFiOG45SWwxaVkxZ0g3dGJDUkdHTGw2S1FEQnFvTXlaODJCS0E2SS1zSdIB6AFBVV95cUxNQk1aclBOUl9EQnJQbzhxTEtCeEpTRUhUVDlHOGVxWDlKRWxrYTRIZ0JaMTFNWFRhWjU2aTRJR2EyM1l2djFUQ3dxRlhfSHp6dGZ6Q0VoQWxqbzhqQklWQzlpOUxxVVp1d25MQTFacGt3VE5ENGdFTzNDb3ZyemJYLUVPV1pTX2FxTVUyeVBuT0c1NkF0cFlMVUdsR3lUNkpqS0J5cHBSbkJMa3RSS0hsaTFJc05ISTRJTm94dlZrdEVsbEZjMkp1Y1RwUnk2aHZiaUYzMXo4cTcxTkMxZnpoRFJPeUJkcTd0?oc=5
+interest_rate_housing:
+- When will mortgage rates go down again? A calm bond market is key. - Yahoo Finance (Yahoo Finance)
+  https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdTgwanU2My14YW92NzF1cnViRC1KeTVIVGRTZlpJQnJrc3N4V2N4N2FOdUVVMWs1dkJFbkhUQk1RUTgzeW5LQndoUVloOUpld2VYVFVxODE1VF8tcmsweEV3Y3BETGVya0dETG9Dd0xNWkdLM1hpdHc0RU9WSGJWSE1TdkZFNkFIMjJUVzNzVEo0M0xtM3k3RGVrUkRCSHZpZE5IT1NScmpQZkQzM256OXptbkpVSlRBQzV5cy1GRDVSM2RiNGN1QnVOdUI3aUZObXFfQVNnTUpIR3RpZGc?oc=5
+- Fed Drops Easing Bias, Clouding Near-Term Outlook for Housing Market - National Association of Home Builders | NAHB (National Association of Home Builders | NAHB)
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rT0JBWTk4MmctUnJVYkJOWWQzWmNfb3VGQUt5MDlpM0ZGWm4weF85TjBfc3F1ajh6Q2ZDRk9XVllKdFNZQmFuWjNnYzBDUG8yWVUzclBVSHJOU1B5MTJGTFE2SjJ4UQ?oc=5
+cpi_labor_ppi:
+- Inflation likely to hit a three-year high in May - rbc.com (rbc.com)
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxONVhwNWFMaW1Xdm1mOFJvWG9yTHBCWDVsUXg3a3FwbnlpYi1qNjZlZzZhQTdNWEVla2lGNzM1TlVPXzFZQzVtTER1NHFhdS1VMDNncThsRmtodHY5RFZDYVdMN0ZoSTh5dTNEYlRZSzRSdHgzQW1vcTBzSFFUUTFIazRyLTF2TmVPUmxRUVgtR1B1c1VXY0F0S0ZLNTY?oc=5
+- Jobless claims and JOLTS: Piecing together the job market jigsaw - Britannica (Britannica)
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1VVHRoR21sd042UXZTS183NVhIVFZZaHdVZ3Q2LTBfT1BtWVMwLTcwaFgzb2wxQkU0UzdLTzZQTmZDYVhJelk0d3d3YzdzTEpZTFdZcktVRGU5TmlPWktZVkJuOEVmSjlUVE1NLQ?oc=5
+global_war:
+- How to understand the Iran war market swings: A geopolitical put option - Atlantic Council (Atlantic Council)
+  https://news.google.com/rss/articles/CBMivAFBVV95cUxQWWhPV1hhUkdiTExmbUVZYlNLTmdSS2RROUVJSmp5bXhhdWRQa2hFS0kzQlhMRlhCOGdjVG02aW8zbUF1R1IwWWJDVml1STBpQXRkdlhReGRlMGZDUmFmU1NWX0ZCaldPMjZPWW1EOHNjLUp0Z1J6QUpIeFhKWk9kRVp5YWszUG9aelNFZllNclZlWGZlOFd3WEEwRjZSeVFZd01YT3AwX3NoYldBenBLQzEtV0pwX3FSbEJsRw?oc=5
+- Quantifying Geopolitical Risk at the Company Level - MSCI (MSCI)
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzRSSlpvZEhyckJLUks3cG1IUUQtUHhsQWFLR29Oc0E3a3JNQl9XSklzMTdYaC05UE9yc18xNEVkUlhzUzg5RWVuZlE2YmFjTTRGWGFUZ0F0dWFZR3gwX3hZVWJRWThiRUpHWGM2YjVGZWdfYW9VNS1XVktnWWhsZUExQVduNUhRc3IyamRSaHQtTmphQlE4YjNKbDd6clpWMGZuRmhn?oc=5
+india_top_5:
+- What’s happening this week in economics? - Deloitte (Deloitte)
+  https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5
+- India's space economy is taking off — and states want a bigger share of the opportunity - Firstpost (Firstpost)
+  https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSUVHdjhxbVdvTFM5dTZveEtjaUI4cjd4YXpsVjBFcEpqdnFJNm5QelU3RUtQTThkU3hyd3JPN1psZHhiTEVwYXlRTG4xSVpUVzF0S1Y2OVFmWXdGOFdETXM0X1lJSlU1cHI1UWRxbzltLUFsT3BnUGNZTnlCT2VhYjFwbVVrZURvY1BKWlg0aFQ5VWYxVmFsSnNURnM4ajJ2RXg5YkJCOTEyWXl4bGRhWHI3RktPbXNVel9XbXR3dXhwcmVvWC1XQtIBzgFBVV95cUxPSmRDMEFEYjJ4dDlodVNqMEFoZjJHaV96T0p0TF9sdDhIZm1CZlYtd1NwbUdVNnc5M3hadmRyWEdjZjJQc3JqcHJnY1FYQ2VEdFM0alE1WWhRNEtqVzRFNkh3eVhlQnYyTW9rdlV5U0lDZlh6ZjN0R3hlN0VwcjhId1Rhd0p4aGZxUUEyRkFPaVpsRUxkYUZ2UkNSMXVkM3NVTUNzX2g1Nmd5Y2hkMTA3NEpkeDhWNk5RMWdvejVRQ1NOYmtDRlk2QjREQkhTZw?oc=5
+- After Taiwan, South Korea overtakes India to become world’s sixth largest stock market; here’s why - The Times of India (The Times of India)
+  https://news.google.com/rss/articles/CBMijAJBVV95cUxOVkQtWm11S2pDYUxnQ0Jvd01FMkxuUGk1ZFdDUGpiY0FidkNRTWdzM2pEendvRnFsVEt3SWc5Mnh3aFRtOW03RGxsN2xOQVd5VFNhVk5RNWhtRm5NdWllWUtMV0RaLTEzc3lHTmc3WUlzSWdNSkhnMG9HbFF3cE1NemlsbnZPWjUyUVVOMHZfVktXSlM4REs4QktxU2hiSTZNNm50eEtSeHh4NXg1eWRzT2Rkd3FCMkozTWNXRXRIemJLMlcwVWExcTgwY2dJQjZsLUZfbjNrcC1Del9LeXZoblFseDhVdW00cUFNN2tBUGZjU1pDcFFxaGk4THdlMnhhdEh3b2xKMHI1aGR00gGSAkFVX3lxTE1vMTJGQjlVM0NzUVp0WXRieWJJUXJHWWYtSE1tQnRzeVF1Mm5kVWdyN0ZDWHpZMEhKelRyTEVRbmxxR3JRT05qdGlrb1ptN3Z0ZkdPM1YwT3JDc0lBZmZDeGdDQ2NXeUQxSEhnZnFPaFNqZHBiQjJfbVNBOWRhQ1Y1emJBQktGWGNWc0tsOW1vVlFBX19Lc05IQ2JrdFhJa3FOeXd4X0JUeXpLYjhSSzFTTG5mVVduWUtVbDIyLVFJQWJ1R2hFZTRRRGJBaE9UbDVfSlR1TjRmTlh4bFNOV0pDdmhDZ2IwamJCQ1B3YzBYay11SFJSUTN2S3JJMm9pSnVodmdxTlBMSE44bDZCNzE4dWc?oc=5
+- Explained: Why Taiwan has overtaken India to become world’s fifth largest stock market - The Times of India (The Times of India)
+  https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaWtKWlpGMnl4c2NackwyY054RmtnMjRVbU1BSExObkNSV29WdWt2UTlqTGZYSFJQZzZIS0pFNEIyb0dZRnc2N3RtMTJrN0FrRTBsaWNNS2wtZlVXdFVVT3FRQnZfNTF0a0xGM2dsazJ4TTJJMzhCMDRmR3VDUnFMeHhEZVJfM2NZR0RCaVc5b185NjJnVG9fYnVzZC1SeHJmdXFzZ1NLUGZCRWtwTUpMTkx2X3FfRVhhYUp2S0ZxTEpGUHBObjE4QWVyLXdTYUx2LXR6LWpGWjBfT3RjSnowZ3FEZGNRbmJRVE5ISk9MMThGVEVlLV8wbEVBa0R0REHSAYQCQVVfeXFMTlB5SHFNWHZGOHFuZXVWTHF3ZEpVLUE5U0xQbEtWc3k3aklJOFBSODNmd1VlQVFiN2FPcGxUd3dQMHE0RHQ0czQtb3hPNGtzbUF0ZlRINy1jVUV4aGtTeDdPbzY2akRnS1lZR2NtNEJfNk9sSWR6SEd5V212LVNlMnMwblpwLTFoaFhaTTFKbnFtMXV0YkJHX0U4amY5bkQ3Zi1jaHYxalg2cGU3bUdsTkw3ZVd3YVE4azdZTWoxdTd4Q1o0ajZycWYxRkFneGJ1ZURKZTVUaUNOMjRyTXo5Z1diR3hRZGg3Ym80Q1R2SndrWlBidlZtNEtqM3loMU9CTk53SGo?oc=5
+- Dixon Technologies (India) - Watch Out: Promoters cut stakes in 13 midcap stocks in March 2026 quarter - The Economic Times (The Economic Times)
+  https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbUFNenF4Y1g0NjYtOHlpc2hOLTI3NTRmdXNOWllDZDA1ZVJWSWFhTkh0RnZyS01QMVM3bXRIY1ZtUTY3S3lxLXA4MW11WGRVRU5xQ1VIb1VuVmRKQWlKWXg5SlRCVlNwRjNLdU1HeEZtTi12SFd4Y3llVmhnTG94WExDR0dobFAybWllbWNuWXBlWnhjZWpmbW5TLTQ0ZHRkNGtXNnVoUUtVZXkyMHhEaERfQWVHMXBWOFNIWHcyUnlNQ2JNUEEyNjUyTzRSLVZDaHhFYWoyMlRlcGh1TkR5SHFHMFNYNmdWbkJGZGRLVUZSdGJ5T1ZnRlMtaEJudw?oc=5
+world_top_5:
+- 100 days of the Iran war: How global markets and the economy have been affected, in charts - CNBC (CNBC)
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ0piOEJUaXBPd1ZyZ3BrRWdMbXlQZk1sUzZrMUY3N0pMYWFmLXAzZzVoREpZRGFnaHY2eFE1eUVjV3JjcEN3d3lkTFRKcmlqT2R2X2VJRjdBRXRleDFVM09tMDhrVlhmZ19RSk1yQXZ4RGhpZW1IeWJ6dGlqRGFQVm1nc0VaeURlU0Ew0gGQAUFVX3lxTE14ck9VTmJTN1Y1aHFmZkhpYjRkRkdva085ZEt4cEd5NHUwclRhdmRJcW8yM2pPSllqQUdRZFYwUTR0bWI3cUlzTjR4djZmSERFNkd6YUMzaEpxLUhMNHNWa0d6NWdUY1dIVDQ4alFxYkV6R3lYQ3dhWVRBV2xBX0xzWHBrdXdPNzJSUF9WUDlheA?oc=5
+- Discover this week's must-read finance stories - The World Economic Forum (The World Economic Forum)
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxNOFVmOVB0Y0FveFVQX29ibWdKQXAxY0xzdU0yQTZlaGFEZEQwZVJDNG5NR0tyU1l5SHNYZXRJenZCRkZ1cVJ3ajhTbTRBVkx1YUZrZGZ4Xzk2RVhXaXBSSUh0SDZNcHRNY18zMGp5dEsxV0d4emhiaV9hOEQ2YWhIRW1HejY5aVpybkpMMlVOY0Z1YW9JZDdxM19hMUNrZEdOUEE?oc=5
+- The world economy is experiencing the most severe oil shock in decades. The worst could still be on the way. - NBC News (NBC News)
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTZGUGtoRmVZVTlzOWpvcEQzVVdCQ3JTb3pNblg4T3EtZ180WDFtSW1VNzRDWThXZUNZeHFldWMySi1Fd3l6UlVHd3lFOVhCbTFqbjBqbWpXWWpjd1lXbG5LeGFYbmVpRWZwWk5OVnExcTBOWGlZWG5JYzA4eHRBS0lSQ2UyZmdBWjUxTUUtUGZkY0k?oc=5
+- Middle East War to Spark Biggest Energy Price Surge in Four Years - World Bank Group (World Bank Group)
+  https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXZYeGQyQUkxX2hIR2VGTEVDSngzZE1NR2ljaHJSWjFGdTZjUWxxOHhIeHJmWlF6RkdwcnR2RjJnRWxkdnNUWW5CUV9qMnJnY3dsRXFCa3B0VjlVdlhDU01XVnFhbzYtcjdTcy1jNzljT2o3OUlrOUZwVllYdmdEMTlNTzVpdXhQbWtlTWZjX3FoTTM4eGtERGZLbmRJRkZ1dWY5SnhMNGhmRnlFQXc?oc=5
+- How badly has the Iran war hit the global economy? The tell-tale signs - Al Jazeera (Al Jazeera)
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxOanJDaTRDOHdPZUFTQkpBMV9vdS1uU1pIcFFwMUJkV0s0NVpWVXFLRE1aRGI0bTNyT1VxOFdaX1l3YTNBUjNRWWltYmN4RjRWQUJXalcxRkx4OWJBbFkyR09wZlg4U2lFM0ZKaUpIMUJsbHp4cFpLWldRM1p3cE9hQk9GMkczdnNzUGtrbHFrc25VdUpRVjlXMW5mS21GaVViQUp0OHQzakFJNmhH0gGyAUFVX3lxTFBxdmJDeEUtWG9FY3VVR0tIcTE3SXZuZUNFOXltZXRzX1pJYy1UOV9hM21SXzdvRjlYVnYyZnljNUlYQTMyellBWHJwdXEwQmY3R3hrUG1SZTZXU2lod0V2eUgzUnBJS2hIemZIREk4MGlyU1VuZmhVemVZYVBKSko1NF9VbmJJdjZYMmJ5TW5WZm9DY0ZpZ0txTTlhOF95X2YzWURxeXZEdUZEdl91UjhyZWc?oc=5
